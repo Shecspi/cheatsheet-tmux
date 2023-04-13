@@ -5,7 +5,7 @@
 `sudo pacman -S tmux`  
 2. Установить Tmux Plagin Manager  
 `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
-3. Создать конфигурационный файл `~/.tmux.conf` и в него скопировать содержимое файла  
+3. Создать конфигурационный файл `~/.tmux.conf` и в него скопировать содержимое [этого файла](https://github.com/Shecspi/cheatsheet-tmux/blob/master/.tmux.conf)  
 4. Войти в tmux и выполнить команду  для установки плагинов, прописанных в конфигурационном файле  
 `<prefix> + I`
 
